@@ -6,7 +6,6 @@ public class main
         System.out.println("Lala.");
         if(3 < 5)
         {
-            System.out.println("Hi!");
         }
     }
 }
